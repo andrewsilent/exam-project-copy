@@ -96,7 +96,7 @@ class Header extends React.Component{
                                         <li><a target="_blank" href="http://www.google.com">Finance</a></li>
                                         <li><a target="_blank" href="http://www.google.com">Real Estate</a></li>
                                         <li><a target="_blank" href="http://www.google.com">Tech</a></li>
-                                        <li className={styles.last}><a href="http://www.google.com">More Categories</a>
+                                        <li className={styles.last}><a target="_blank" href="http://www.google.com">More Categories</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -110,7 +110,7 @@ class Header extends React.Component{
                                         <li><a target="_blank" href="http://www.google.com">ACTIVE CONTESTS</a></li>
                                         <li><a target="_blank" href="http://www.google.com">WINNERS</a></li>
                                         <li><a target="_blank" href="http://www.google.com">LEADERBOARD</a></li>
-                                        <li className={styles.last}><a href="http://www.google.com">BECOME A
+                                        <li className={styles.last}><a target="_blank" href="http://www.google.com">BECOME A
                                             CREATIVE</a></li>
                                     </ul>
                                 </li>
@@ -121,7 +121,7 @@ class Header extends React.Component{
                                         <li><a target="_blank" href="http://www.google.com">NAMES</a></li>
                                         <li><a target="_blank" href="http://www.google.com">TAGLINES</a></li>
                                         <li><a target="_blank" href="http://www.google.com">LOGOS</a></li>
-                                        <li className={styles.last}><a href="http://www.google.com">TESTIMONIALS</a>
+                                        <li className={styles.last}><a target="_blank" href="http://www.google.com">TESTIMONIALS</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -134,7 +134,7 @@ class Header extends React.Component{
                                         <li><a target="_blank" href="http://www.google.com">INTRIGUING NAMES</a></li>
                                         <li><a target="_blank" href="http://www.google.com">NAMES BY CATEGORY</a></li>
                                         <li><a target="_blank" href="http://www.google.com">VISUAL NAME SEARCH</a></li>
-                                        <li className={styles.last}><a href="http://www.google.com">SELL YOUR
+                                        <li className={styles.last}><a target="_blank" href="http://www.google.com">SELL YOUR
                                             DOMAINS</a></li>
                                     </ul>
                                 </li>
@@ -145,7 +145,7 @@ class Header extends React.Component{
                                         <li><a target="_blank" href="http://www.google.com">ULTIMATE NAMING GUIDE</a></li>
                                         <li><a target="_blank" href="http://www.google.com">POETIC DEVICES IN BUSINESS NAMING</a></li>
                                         <li><a target="_blank" href="http://www.google.com">CROWDED BAR THEORY</a></li>
-                                        <li className={styles.last}><a href="http://www.google.com">ALL ARTICLES</a>
+                                        <li className={styles.last}><a target="_blank" href="http://www.google.com">ALL ARTICLES</a>
                                         </li>
                                     </ul>
                                 </li>
